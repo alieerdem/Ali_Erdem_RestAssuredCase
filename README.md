@@ -1,7 +1,7 @@
 # Pet Store API Testing Project
 
 ## Overview
-This project contains automated API tests for a Pet Store application. The test suite is designed to validate various pet management operations through the API endpoints.
+This project contains automated Rest Assured API tests for a Pet Store application. The test suite is designed to validate various pet management operations through the API endpoints.
 
 ## Features
 - Parallel test execution capability
